@@ -24,4 +24,4 @@ Interface Swagger
 
 Les tests unitaires
 
-![TP6-Swager-Interface.png](images/TP6-Swager-Interface.png)
+![Tests Unitaires.png](images/Tests%20Unitaires.png)
