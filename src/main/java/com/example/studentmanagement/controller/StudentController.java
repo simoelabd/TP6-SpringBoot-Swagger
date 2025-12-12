@@ -15,6 +15,11 @@ import java.util.List;
 @RequestMapping("students")
 public class StudentController {
 
+    @GetMapping
+    public String hello() {
+        return "Hello from New Test :)";
+    }
+
     @Autowired
     private StudentService studentService;
 
