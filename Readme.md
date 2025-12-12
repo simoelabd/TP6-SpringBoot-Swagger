@@ -25,3 +25,5 @@ Interface Swagger
 Les tests unitaires
 
 ![Tests Unitaires.png](images/Tests%20Unitaires.png)
+
+partie CI/CD
