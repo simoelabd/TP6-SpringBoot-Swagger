@@ -1,4 +1,4 @@
-Test de l’ajout d’un étudiant (POST)
+Test de l’ajout d’un étudiant (POST) : 
 
 ![TP6-T1.png](images/TP6-T1.png)
 
