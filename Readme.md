@@ -1,5 +1,3 @@
-Test de l’ajout d’un étudiant (POST)
-
 ![TP6-T1.png](images/TP6-T1.png)
 
 Test de la récupération de tous les étudiants (GET)
